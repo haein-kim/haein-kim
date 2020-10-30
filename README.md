@@ -1,5 +1,5 @@
 ### Hi 👋
-### [Velog](https://velog.io/@haenyy3153)
+### Velog [https://velog.io/@haenyy3153]
 <!--
 **haein-kim/haein-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
