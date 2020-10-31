@@ -1,5 +1,9 @@
 ### Hello World!
 #### Velog https://velog.io/@haenyy3153
+
+#### Skills
+SQL, Python, HTML/CSS
+
 <!--
 **haein-kim/haein-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
