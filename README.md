@@ -3,7 +3,11 @@
 #### Skills
 SQL, Python3, HTML/CSS  
 
-[Velog](https://velog.io/@haenyy3153) | [LinkedIn](https://www.linkedin.com/in/haein-kim-80b65217a/)
+
+
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat?style=plastic&logo=appveyor&logo=#0077B5&link=https://www.linkedin.com/in/haein-kim-80b65217a/)](https://www.linkedin.com/in/haein-kim-80b65217a/)
+
+[Velog](https://velog.io/@haenyy3153)
 
 <!--
 **haein-kim/haein-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
