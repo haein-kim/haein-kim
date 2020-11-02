@@ -2,8 +2,8 @@
 
 #### Skills
 SQL, Python3, HTML/CSS  
-\  
-\ 
+\n  
+\n
 \  
 \  
   
