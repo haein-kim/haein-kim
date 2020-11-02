@@ -1,11 +1,7 @@
 ### Hello World!
-
-#### Skills
-SQL, Python3, HTML/CSS  
-\n  
-\n
-\  
-\  
+  
+  
+#### channels
   
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/haein-kim-80b65217a/)](https://www.linkedin.com/in/haein-kim-80b65217a/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://medium.com/@haein.kim.kr)](https://medium.com/@haein.kim.kr)
@@ -14,7 +10,7 @@ SQL, Python3, HTML/CSS
   
   
   
-
+d
 <!--
 **haein-kim/haein-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
