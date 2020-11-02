@@ -5,8 +5,9 @@ SQL, Python3, HTML/CSS
 
 
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat?style=plastic&logo=appveyor&logo=#0077B5&link=https://www.linkedin.com/in/haein-kim-80b65217a/)](https://www.linkedin.com/in/haein-kim-80b65217a/)  
+
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/haein-kim-80b65217a/)](https://www.linkedin.com/in/haein-kim-80b65217a/)
+[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=12100E&link=https://www.linkedin.com/in/haein-kim-80b65217a/)](https://www.linkedin.com/in/haein-kim-80b65217a/)
 
 [Velog](https://velog.io/@haenyy3153)
 
