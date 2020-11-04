@@ -1,5 +1,7 @@
-
+Haein Kim (김해인)
 🧱 Python3 | MySQL | HTML/CSS | GIT/GitHub  
+🌱 JAVA | ML-Recommendation System
+💘 OTT service | WEBTOON | Anime | Drama | Movie | Game
 🗣 Korean / English / Japanese  
 <br>
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@haenyy3153)](https://velog.io/@haenyy3153)
