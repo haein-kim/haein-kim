@@ -2,6 +2,7 @@
 <br>
 🗣 Korean / English / Japanese  
 <br>
+
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@haenyy3153)](https://velog.io/@haenyy3153)
 
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/haein-kim-80b65217a/)](https://www.linkedin.com/in/haein-kim-80b65217a/)
