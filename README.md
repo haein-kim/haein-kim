@@ -1,7 +1,7 @@
 #### Haein Kim (김해인)  
 ...🛠 currently under construction  
 🧱 Python3 | MySQL | HTML/CSS | GIT/GitHub  
-🌱 JAVA | ML-Recommendation System  
+🌱 REST API | ML-Recommendation System  
 💘 OTT service | WEBTOON | Anime | Drama | Movie | Game  
 🗣 Korean / English / Japanese  
 <br>
