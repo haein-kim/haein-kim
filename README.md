@@ -2,7 +2,7 @@
 **current project**: "PUBG esports-report" (game) 👉 team_5
 
 💻 Python3, MySQL, GIT/GitHub | Tableau, HTML/CSS  
-✨ VSCode, JupyterNotebook, Notion, Slack | Google Analytics, GCP-BigQuery  
+✨ VSCode, JupyterNotebook, Notion, Slack | GA, GCP-BigQuery  
 💘 OTT service, WEBTOON, Anime, Drama, Movie, Game  
 📚 soft skills, basic statics, growth-hacking | REST API, ML-Recommendation System  
 🗣 Korean / English / Japanese  
