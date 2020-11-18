@@ -1,8 +1,10 @@
 #### Haein Kim (김해인)  
-...🛠 currently under construction  
-🧱 Python3 | MySQL | HTML/CSS | GIT/GitHub  
-🌱 REST API | ML-Recommendation System  
-💘 OTT service | WEBTOON | Anime | Drama | Movie | Game  
+**current project**: "PUBG esports-report" (game) 👉 team_5
+
+💻 Python3, MySQL, GIT/GitHub | Tableau, HTML/CSS  
+✨ VSCode, JupyterNotebook, Notion, Slack | Google Analytics, GCP-BigQuery  
+💘 OTT service, WEBTOON, Anime, Drama, Movie, Game  
+📚 soft skills, basic statics, growth-hacking | REST API, ML-Recommendation System  
 🗣 Korean / English / Japanese  
 <br>
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@haenyy3153)](https://velog.io/@haenyy3153)
