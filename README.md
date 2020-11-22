@@ -1,5 +1,5 @@
 #### Haein Kim (김해인)  
-**current project**: "PUBG esports-report" (game) 👉 [dataitgirls4/team_5](dataitgirls4/team_5)
+**current project**: "PUBG esports-report" (game) 👉 [dataitgirls4/team_5](https://github.com/dataitgirls4/team_5)
 
 💻 Python3, MySQL, GIT/GitHub | Tableau, HTML/CSS  
 ✨ VSCode, JupyterNotebook, Notion, Slack | GA, GCP-BigQuery  
