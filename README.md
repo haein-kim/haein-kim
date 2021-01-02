@@ -1,9 +1,10 @@
 #### Haein Kim (김해인)  
-**current project**: "PUBG esports-report" (game) 👉 [dataitgirls4/team_5](https://github.com/dataitgirls4/team_5)
+**NOW** : Data Analyst Intern @NaverWebtoon (2020.12~)    
+**current project**: "PUBG esports-players-report" 👉 [dataitgirls4/team_5](https://github.com/dataitgirls4/team_5)
 
-💻 Python3, MySQL, GIT/GitHub | Tableau, HTML/CSS  
-✨ VSCode, JupyterNotebook, Notion, Slack | GA, GCP-BigQuery  
-💘 OTT service, WEBTOON, Anime, Drama, Movie, Game  
+💻 Python3, SQL(Hive, mySQL), GIT/GitHub | Tableau, HTML/CSS  
+✨ VSCode, JupyterNotebook, Zepplin, Notion, Slack | GA  
+💘 OTT, Webtoon, Anime, Drama, Movie, Game  
 📚 soft skills, basic statics, growth-hacking | REST API, ML-Recommendation System  
 🗣 Korean / English / Japanese  
 <br>
