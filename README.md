@@ -1,6 +1,8 @@
 #### Haein Kim (김해인)  
-**current experience** : Data Analyst Intern @NaverWebtoon (2020.12~2021.06)    
-**current project**: [PUBG esports-players-report](https://github.com/dataitgirls4/team_5)
+**current experience**  
+Data Analyst Intern @NaverWebtoon (2020.12~2021.06)    
+**project**  
+[PUBG esports-players-report](https://github.com/dataitgirls4/team_5)
 
 💻 SQL(Impala, mySQL), Python3, GIT/GitHub | Tableau, HTML/CSS  
 ✨ VSCode, JupyterNotebook, Zepplin, Notion, Slack | GA  
